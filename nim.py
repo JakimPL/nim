@@ -3,7 +3,7 @@ from pygame.locals import*
 pygame.init()
 
 # GRA
-nim = [1,3,5,7]
+nim = [1,3,5,7,11,15,18]
 l = len(nim)
 g = 0
 name = ["Gracz pierwszy", "Gracz drugi"]
